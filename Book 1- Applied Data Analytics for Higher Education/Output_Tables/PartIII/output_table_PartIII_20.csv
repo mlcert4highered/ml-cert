@@ -1,0 +1,6 @@
+SID,ADMISSION_YEAR,ADMISSION_TERM,APPLIED,ADMITTED,ETHNIC_CODE,RACE_ETHNICITY,GENDER,FIRST_GEN_STATUS,STUDENT_TYPE,COLLEGE_CODE,COLLEGE,DEPARTMENT_CODE,DEPARTMENT,ENROLLMENT_YEAR,ENROLLMENT_TERM,ENROLLED,COHORT
+II71ACMWZ,2011,Fall,Applied,NaN,HISP,Hispanic,Male,Continuing Generation,FYS,SCI,Science,CHEM,Chemistry,NaN,NaN,NaN,Fall 2011
+TCT4Y7GBK,2010,Fall,Applied,NaN,HISP,Hispanic,Male,Unknown,FYS,BUS,Business,ACCT,Accounting,NaN,NaN,NaN,Fall 2010
+V7UM0BUKW,2012,Fall,Applied,NaN,NaN,Unknown,Male,Continuing Generation,TRN,LIB,Liberal Arts,JOUR,Journalism,NaN,NaN,NaN,Fall 2012
+OBEALLZ13,2012,Fall,Applied,NaN,HISP,Hispanic,Male,Continuing Generation,TRN,LIB,Liberal Arts,PSY,Psychology,NaN,NaN,NaN,Fall 2012
+HFUCQV9IY,2010,Fall,Applied,NaN,HISP,Hispanic,Female,Continuing Generation,FYS,HEA,Health,FCS,Consumer Sciences,NaN,NaN,NaN,Fall 2010
